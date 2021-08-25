@@ -1,0 +1,1 @@
+Clonning the remote my-weather-app repository to Github Desktop using http url.
